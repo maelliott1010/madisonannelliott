@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hi! Welcome to my website :)"
+title                    : "Hello :)"
 title_separator          : "-"
 name                     : &name "Madison Elliott"
 description              : &description "Ph.D. Student in Cognitive Science at the University of British Columbia"
