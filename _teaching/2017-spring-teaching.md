@@ -1,0 +1,16 @@
+---
+title: "Cognitive Systems 303: Research Methods in Cognitive Systems"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2017-spring-teaching
+venue: "University of British Columbia, Department of Cognitive Systems"
+date: 2017-01-02
+location: "Vancouver, BC"
+---
+
+**Overview**
+This is a course designed to teach students how to think analytically, in science and beyond. I use a combination of traditional lecturing, written assessments, group anaylsis, oral debates, socratic seminars, exams, and a critique of published research, to evaluate students and facilitate intellecutal growth.
+
+We are constantly evolving our use of technology for this course. We've successfully used Google forms, online quiz tools, Canvas, media presentations, and interactive Google docs so far!
+
+More information about the course can be found [here](https://cogsys.ubc.ca/course-pages/cogs-303/).
