@@ -1,6 +1,6 @@
 
 ---
-layout: archive
+layout: "archive"
 title: "Industry Resume"
 permalink: /resume/
 author_profile: true
