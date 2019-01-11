@@ -8,7 +8,7 @@ date: 2017-01-02
 location: "Vancouver, BC"
 ---
 
-**Overview**
+**Overview** <br/>
 This is a course designed to teach students how to think analytically, in science and beyond. I use a combination of traditional lecturing, written assessments, group anaylsis, oral debates, socratic seminars, exams, and a critique of published research, to evaluate students and facilitate intellecutal growth. I have been teaching COGS 303 for 2 years.
 
 We are constantly evolving our use of technology for this course. We've successfully used Google forms, online quiz tools, Canvas, media presentations, and interactive Google docs so far!
