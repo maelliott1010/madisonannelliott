@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hi! Welcome to my website"
+title                    : "Hi! Welcome to my website :)"
 title_separator          : "-"
 name                     : &name "Madison Elliott"
-description              : &description "PhD Student in Cognitive Science at the University of British Columbia"
+description              : &description "Ph.D. Student in Cognitive Science at the University of British Columbia"
 url                      : https://maelliott1010.github.io/madisonannelliott # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maelliott1010.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Recent News"
-  avatar           : "profile.png"
-  bio              : "Stay tuned for more updates!"
+  name             : "Madison Ann Elliott"
+  avatar           : "madison_headshot.png"
+  bio              : "Cognitive Science Ph.D. Student at the University of British Columbia | Data Visualization and Usability Engineer"
   location         : "Vancouver, British Columbia"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=_aVoJboAAAAJ&hl=en&oi=ao"
