@@ -2,7 +2,7 @@
 title: "Psychology 102: Introduction to Psychology"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-fall-teaching
+permalink: /2018-fall-teaching
 venue: "University of British Columbia, Department of Psychology"
 date: 2018-09-01
 location: "Vancouver, BC"
