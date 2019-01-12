@@ -1,6 +1,6 @@
 ---
 title: "Mana Financial Life Design"
-excerpt: "Data, design, and decision making work!"<br/><img src='/images/mana.png'>"
+excerpt: "Data, design, and decision making work! <br/><img src='/images/mana.png'>"
 collection: portfolio
 ---
 
