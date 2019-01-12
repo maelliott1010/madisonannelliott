@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  paperurl: 'http://academicpages.github.io/files/Elliott_CV_2019.pdf'
 ---
 Welcome to my personal website!
 ======
