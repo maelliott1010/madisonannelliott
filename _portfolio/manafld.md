@@ -1,6 +1,6 @@
 ---
 title: "Mana Financial Life Design"
-excerpt: "Data, design, and decision making work!"
+excerpt: "Data, design, and decision making"
 collection: portfolio
 ---
 ![](https://maelliott1010.github.io/madisonannelliott/images/mana.png)
