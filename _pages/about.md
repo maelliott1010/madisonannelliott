@@ -26,5 +26,3 @@ And here are some iPhone photos of my dogs :dog: :dog:!
 
 ![](https://maelliott1010.github.io/madisonannelliott/images/IMG_8657.JPG)
 
-![](https://maelliott1010.github.io/madisonannelliott/images/IMG_8360.JPG)
-
