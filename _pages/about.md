@@ -20,7 +20,8 @@ I also have over 5 years of professional experience working as a usability engin
 
 Check out my: [Academic CV](http://blogs.ubc.ca/psyc102egp/files/2019/01/Elliott_CV_2019.pdf) and my ![Usability/UX Resume](). 
 
-Here are some iPhone pictures of my dogs:
+And here are some iPhone photos of my dogs :dog: :dog:!
+
 ![](https://maelliott.github.io/madisonannelliott/images/IMG_8392.JPG)
 
 ![](https://maelliott.github.io/madisonannelliott/images/IMG_8657.JPG)
