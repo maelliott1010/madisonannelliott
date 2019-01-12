@@ -30,4 +30,4 @@ This is the applied version of my vision work. We can use classic psychophysical
 Other Interests & Projects
 ======
   
-I am also super interested in behavioral research methods and statistics! Check out the methods and statistics section of my [publications](https://maelliott1010.github.io/madisonannelliott/publications/) page for further reading.
+I am also super interested in behavioral research methods and statistics! Check out my [publications](https://maelliott1010.github.io/madisonannelliott/publications/) page for further reading.
