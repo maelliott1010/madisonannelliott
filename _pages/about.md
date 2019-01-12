@@ -10,7 +10,7 @@ redirect_from:
 This is my personal website...
 ======
 
-Yes, it is ugly. But it's all maintained in simple Markdown and HTML, and it's hosted for free on GitHub pages :)
+Yes, it is ugly. But it's all built and maintained with simple Markdown and HTML, and it's hosted for free on GitHub pages :)
 
 **About me**
 
