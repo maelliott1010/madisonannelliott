@@ -4,7 +4,7 @@ excerpt: "Web design, user experience, app development"
 collection: portfolio
 ---
 
-![](http://maelliott1010.github.io/madisonannelliott/images/cropped-alpine-club-of-canada-1.png)
+![](https://maelliott1010.github.io/madisonannelliott/images/cropped-alpine-club-of-canada-1.png)
 
 This project is a work in progress...
 
