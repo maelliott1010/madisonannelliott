@@ -2,7 +2,7 @@
 title: "Efficacy of memory rehabilitation therapy: A meta-analysis of TBI and stroke cognitive rehabilitation literature"
 collection: publications
 permalink: /publication/2014-11-01-efficacyTBI
-excerpt: 'Objective: To examine the efficacy of cognitive rehabilitation strategies specifically designed to improve memory after traumatic brain injury (TBI) and stroke vs. memory improvement with the passage of time.'
+excerpt: 'This paper is based on my Clinical Psychology MA thesis work from Towson University.'
 date: 2014-11-01
 venue: 'Brain Injury'
 paperurl: ''
