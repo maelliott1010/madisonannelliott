@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-10-01-evaluatevis
 excerpt: 'This paper provides a set of guidelines for researchers and reviewers to consider in conducting and reading user evaluation studies.'
 date: 2018-10-01
-venue: 'BELIV'18 - an IEEE VIS affiliated workshop'
+venue: 'BELIV 2018 - an IEEE VIS affiliated workshop'
 paperurl: ''
 citation: 'Crisan, A. & Elliott, M. (2018). &quot;How to Evaluate an Evaluation Study? Comparing and Contrasting Practices in Vis with Those of Other Disciplines.&quot; <i>BELIV 2018</i> 0(0).'
 ---
