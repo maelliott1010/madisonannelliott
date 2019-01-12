@@ -6,7 +6,7 @@ excerpt: 'Objective: To examine the efficacy of cognitive rehabilitation strateg
 date: 2014-11-01
 venue: 'Brain Injury'
 paperurl: ''
-citation: 'Elliott, M. & Parent, F. (2014). &quot;Efficacy of memory rehabilitation therapy: A meta-analysis of TBI and stroke cognitive rehabilitation literature.&quot; <i>Brain Injury</i>. 28(12) 1610-1616.'
+citation: 'Elliott, M. & Parente, F. (2014). &quot;Efficacy of memory rehabilitation therapy: A meta-analysis of TBI and stroke cognitive rehabilitation literature.&quot; <i>Brain Injury</i>. 28(12) 1610-1616.'
 ---
 Objective: To examine the efficacy of cognitive rehabilitation strategies specifically designed to improve memory after traumatic brain injury (TBI) and stroke vs. memory improvement with the passage of time.
 
