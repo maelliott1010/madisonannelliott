@@ -13,4 +13,4 @@ I am currently in my third year of a Ph.D. in Cognitive Science at the Universit
 
 I also have over 5 years of professional experience working as a usability engineer and data visualization consultant. I have designed, user-tested, and improved software and websites for companies in both the US and Canada, including Northrop Grumman, Social Security Administration, Mana Financial Life Design, UBC Digital Literacy, the Alpine Club of Canada, INETCO, Distrix Ltd., and more...
 
-Check out my: ![Academic CV](CV 2019.pdf) and my ![Usability/UX Resume](). 
+Check out my: ![Academic CV](Elliott_CV 2019.pdf) and my ![Usability/UX Resume](). 
