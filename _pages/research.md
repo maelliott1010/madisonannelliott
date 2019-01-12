@@ -9,51 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Vision Science
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**The Perception of Multiple Ensembles in Attention** </br>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+My Ph.D. research is focused on understanding how the human visual system gets so much detailed information, so quickly and accurately, despite many known processing limitations. In particular, I investigate *ensemble coding* in attention. Ensemble coding refers to our brain's remarkable ability to exploit statistical regularities in the enviornment, and effectively condense this information to form a rich heuristic-based perception (read more about this from [Haberman & Whitney](https://whitneylab.berkeley.edu/PDFs/Ensemble_Perception_Haberman_Whitney.pdf)). I am currently investigating several unanswered questions about ensemble coding, such as: - what visual features drive or aid selection of ensembles? - can we ignore some statistical regularities in the presence of others? - what exactly defines or constitutes an ensemble in attention? 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Check out my team's new project page [here](https://blogs.ubc.ca/vclcorrelation/). You can check out the evolution of our code base, find relevant publications, and see how we're thinking about various directions in our project. 
 
-Publications
+Information Visualization
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**LSQT: Low Stretch Quasi Trees for Bundling and Layout** </br>
+
+This work is focused on the introduction and application of low stretch trees for use the visualization community. Our algorithm, LSQT, uses quasi trees for both layout and edge bundling in dense, "hairball" graphs. Our method offers strong computational speed and complexity guarantees by leveraging the convenient properties of low stretch trees, which accurately reflect the topological structure of arbitrary graphs with superior fidelity compared to arbitrary spanning trees. Play with our POC app [here](https://lsqt-vis.herokuapp.com/).
+
+**The Perception of Correlation in Multiclass Scatterplots** </br>
+
+This is the applied version of my vision work. We can use classic psychophysical methods to investigate and evaluate perception for complex data visualizations! Check out my supervisor's thoughts on the prospects of a [Science of Visualization](https://www.researchgate.net/profile/Ronald_Rensink/publication/256088685_On_the_Prospects_for_a_Science_of_Visualization/links/59f297dcaca272cdc7d01e4e/On-the-Prospects-for-a-Science-of-Visualization.pdf).
   
-Talks
+Other Interests & Projects
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+I am also super interested in behavioral research methods and statistics! Check out the methods and statistics section of my [publications](https://maelliott1010.github.io/madisonannelliott/publications/) page for further reading.
