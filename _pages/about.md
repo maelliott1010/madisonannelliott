@@ -22,9 +22,9 @@ Check out my: [Academic CV](http://blogs.ubc.ca/psyc102egp/files/2019/01/Elliott
 
 And here are some iPhone photos of my dogs :dog: :dog:!
 
-![](https://maelliott.github.io/madisonannelliott/images/IMG_8392.JPG)
+![](https://maelliott1010.github.io/madisonannelliott/images/IMG_8392.JPG)
 
-![](https://maelliott.github.io/madisonannelliott/images/IMG_8657.JPG)
+![](https://maelliott1010.github.io/madisonannelliott/images/IMG_8657.JPG)
 
-![](https://maelliott.github.io/madisonannelliott/images/IMG_8360.JPG)
+![](https://maelliott1010.github.io/madisonannelliott/images/IMG_8360.JPG)
 
