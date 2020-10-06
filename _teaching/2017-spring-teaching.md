@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-spring-teaching
 venue: "University of British Columbia, Department of Cognitive Systems"
-date: 2020
+date: 2020-09-01
 location: "Vancouver, BC"
 ---
 
