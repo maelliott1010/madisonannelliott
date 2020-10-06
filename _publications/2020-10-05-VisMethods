@@ -1,0 +1,23 @@
+---
+title: "A Design Space of Vision Science Methods for Visualization Research"
+collection: publications
+permalink: /publication/2020-10-05-VisMethods
+excerpt: '.'
+date: 2020-10-05
+venue: 'IEEE VIS'
+paperurl: ''
+citation: 'Elliott, M., Nothelfer, C., Xiong, C., & Szafir, D. (2020). &quot;A Design Space of Vision Science Methods for Visualization Research.&quot; <i>IEEE VIS</i>.'
+---
+A growing number of efforts aim to understand what people see when using a visualization. These efforts provide scientific
+grounding to complement design intuitions, leading to more effective visualization practice. However, published visualization research
+currently reflects a limited set of available methods for understanding how people process visualized data. Alternative methods
+from vision science offer a rich suite of tools for understanding visualizations, but no curated collection of these methods exists in
+either perception or visualization research. We introduce a design space of experimental methods for empirically investigating the
+perceptual processes involved with viewing data visualizations to ultimately inform visualization design guidelines. This paper provides
+a shared lexicon for facilitating experimental visualization research. We discuss popular experimental paradigms, adjustment types,
+response types, and dependent measures used in vision science research, rooting each in visualization examples. We then discuss
+the advantages and limitations of each technique. Researchers can use this design space to create innovative studies and progress
+scientific understanding of design choices and evaluations in visualization. We highlight a history of collaborative success between
+visualization and vision science research and advocate for a deeper relationship between
+
+[Download paper here](https://arxiv.org/abs/2009.06855)
