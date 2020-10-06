@@ -2,10 +2,10 @@
 title: "A Design Space of Vision Science Methods for Visualization Research"
 collection: publications
 permalink: /publication/2020-10-05-VisMethods
-excerpt: '.'
+excerpt: 'This paper is a catalogue of research methods that can be used to study and evaluate visualization designs.'
 date: 2020-10-05
 venue: 'IEEE VIS'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2009.06855'
 citation: 'Elliott, M., Nothelfer, C., Xiong, C., & Szafir, D. (2020). &quot;A Design Space of Vision Science Methods for Visualization Research.&quot; <i>IEEE VIS</i>.'
 ---
 A growing number of efforts aim to understand what people see when using a visualization. These efforts provide scientific
