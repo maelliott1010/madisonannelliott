@@ -5,8 +5,8 @@ permalink: /publication/2020-10-05-VisMethods
 excerpt: 'This paper is a catalogue of research methods that can be used to study and evaluate visualization designs.'
 date: 2020-10-05
 venue: 'IEEE VIS'
-paperurl: 'https://arxiv.org/abs/2009.06855'
-citation: 'Elliott, M., Nothelfer, C., Xiong, C., & Szafir, D. (2020). &quot;A Design Space of Vision Science Methods for Visualization Research.&quot; <i>IEEE VIS</i>.'
+paperurl: ''
+citation: 'Elliott, M. & Parente, F. (2014). &quot;Efficacy of memory rehabilitation therapy: A meta-analysis of TBI and stroke cognitive rehabilitation literature.&quot; <i>Brain Injury</i>. 28(12) 1610-1616.'
 ---
 A growing number of efforts aim to understand what people see when using a visualization. These efforts provide scientific
 grounding to complement design intuitions, leading to more effective visualization practice. However, published visualization research
@@ -18,6 +18,8 @@ a shared lexicon for facilitating experimental visualization research. We discus
 response types, and dependent measures used in vision science research, rooting each in visualization examples. We then discuss
 the advantages and limitations of each technique. Researchers can use this design space to create innovative studies and progress
 scientific understanding of design choices and evaluations in visualization. We highlight a history of collaborative success between
-visualization and vision science research and advocate for a deeper relationship between
+visualization and vision science research and advocate for a deeper relationship between the two fields that can elaborate on and
+extend the methodological design space for understanding visualization and vision.
 
 [Download paper here](https://arxiv.org/abs/2009.06855)
+
